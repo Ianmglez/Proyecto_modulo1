@@ -5,10 +5,10 @@ Las fórmulas que se utilizarán son las siguientes:
 
 Donde A, w = 0.05, 50
 
-
-
-
 condiciones iniciales:
 Kwr = 500000
 Kcw = 80000
 Ccw = 350
+Cwr = 15020
+mc = 2500
+mw = 320
