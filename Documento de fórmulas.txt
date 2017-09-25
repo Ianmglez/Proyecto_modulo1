@@ -1,0 +1,14 @@
+Las fórmulas que se utilizarán son las siguientes:
+
+-  zr = A*np.sin(w*t)
+-  dzr = w*A*np.cos(w*t)
+
+Donde A, w = 0.05, 50
+
+
+
+
+condiciones iniciales:
+Kwr = 500000
+Kcw = 80000
+Ccw = 350
